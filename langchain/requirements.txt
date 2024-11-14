@@ -1,6 +1,6 @@
 openai
 langchain
-langchain_openai
+langchain-openai
 langchain_experimental
 langchainhub
 pinecone-client
@@ -11,3 +11,4 @@ pypdf
 requests
 numpy
 pandas
+langchain-huggingface
